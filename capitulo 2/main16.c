@@ -16,10 +16,10 @@ void main(void)
                     RES = 1;
                 else
                     RES = 0;
-                break; //
+                break;
 
         case 2: if (ANT >= 7)
-                    RES = 1; //
+                    RES = 1;
                 else
                     RES = 0;
                 break;
